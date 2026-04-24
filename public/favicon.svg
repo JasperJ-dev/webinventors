@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <rect width="128" height="128" rx="28" fill="#081126"/>
+  <text
+    x="28"
+    y="83"
+    fill="#ffffff"
+    font-family="Manrope, Arial Black, Arial, sans-serif"
+    font-size="50"
+    font-weight="800"
+    letter-spacing="-3"
+  >w</text>
+  <rect x="82" y="34" width="9" height="48" rx="3" fill="#37bdf5"/>
+  <circle cx="86.5" cy="93" r="7" fill="#37bdf5"/>
+  <circle cx="106" cy="104" r="5.5" fill="#37bdf5"/>
+</svg>
