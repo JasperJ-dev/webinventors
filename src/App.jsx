@@ -7,6 +7,7 @@ const initialInvalidFields = {
 };
 
 const navItems = [
+  { href: "#top", label: "Home" },
   { href: "#werk", label: "Werk" },
   { href: "#diensten", label: "Diensten" },
   { href: "#over-ons", label: "Over ons" },
